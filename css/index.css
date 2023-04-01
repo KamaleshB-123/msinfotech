@@ -11,7 +11,7 @@ body{
 /* mobile phones */
 @media only screen and (max-width: 600px){
 .header{
-    background:url("./images/550272.jpg") no-repeat center center fixed;
+    background:url("/images/550272.jpg") no-repeat center center fixed;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size: cover;
@@ -150,7 +150,7 @@ body{
 @media only screen and (min-width: 768px) {
 
     .header{
-        background:url("./images/550272.jpg") no-repeat center center fixed;
+        background:url("/images/550272.jpg") no-repeat center center fixed;
         -webkit-background-size:cover;
         -moz-background-size:cover;
         -o-background-size: cover;
